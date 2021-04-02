@@ -4,10 +4,14 @@ This tool helps you to check the username is taken or not in social medias like 
 
 TO INSTALL AND RUN THE TOOL DO THE FOLLOWING COMMANDS
 
-git clone
+git clone https://github.com/rafavo/climby.git
+
 cd
+
 ls
+
 cd climby
+
 ./climby.sh
           
        
